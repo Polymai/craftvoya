@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="220" viewBox="0 0 360 220" role="img" aria-label="Video placeholder">
+  <rect width="360" height="220" rx="28" fill="#f7f5ef"/>
+  <path d="M42 176h276" stroke="#d8d2c7" stroke-width="2" stroke-linecap="round"/>
+  <path d="M89 72c0-13 10-23 23-23h116c13 0 23 10 23 23v76c0 13-10 23-23 23H112c-13 0-23-10-23-23V72z" fill="#fffaf2" stroke="#111" stroke-width="7"/>
+  <path d="M251 98l49-28c9-5 20 1 20 12v56c0 11-11 17-20 12l-49-28V98z" fill="#fffaf2" stroke="#111" stroke-width="7" stroke-linejoin="round"/>
+  <circle cx="169" cy="110" r="25" fill="#fff" stroke="#111" stroke-width="7"/>
+  <path d="M136 154h68" stroke="#111" stroke-width="7" stroke-linecap="round"/>
+  <path d="M62 51h39M259 170h39M60 110h18M292 46h16" stroke="#d8d2c7" stroke-width="7" stroke-linecap="round"/>
+</svg>
